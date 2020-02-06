@@ -2,6 +2,7 @@
 2. ### Contact Info 
       [LinkedIn](https://www.linkedin.com/in/zharko/)
       [GitHub](https://github.com/VonKrolock)
+      <zharkoviachaslau1983@gmail.com>
       
 
 3. ### Summary
